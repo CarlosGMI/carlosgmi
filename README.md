@@ -18,6 +18,7 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="25" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="25" /></code>
+<br><br>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="25" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="25" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25" /></code>
