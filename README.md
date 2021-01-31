@@ -27,7 +27,5 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="25" /></code>
 
-<hr>
-
-#### If you like what I do, please write me to my <a href="mailto:maldonadocgi@gmail.com">email</a> and let's code together!
+#### <em> If you like what I do, please write me to my <a href="mailto:maldonadocgi@gmail.com">email</a> and let's code together! </em>
 <p align="center"><img src="https://media.giphy.com/media/PhHppXqAqc6uOd6y4X/giphy.gif" width="100" /></p>
