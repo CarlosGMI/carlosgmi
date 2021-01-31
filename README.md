@@ -1,10 +1,13 @@
-<p align='center'>
-<a href="https://dev.to/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/stephenajulu/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
+<h2>Test</h2>
+### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> You can find me on:
+<p><a href="https://www.linkedin.com/in/carlosgmi/?locale=en_US"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a></p>
 
+</br>
+
+<p>I'm <b>Carlos Maldonado</b>, a passionate Full Stack Developer.</p>
+
+- 📍 Caracas, Venezuela
+- 📝 Here is my [Resume](https://drive.google.com/file/d/1XpAEPJp2abbtp9FuRjV-VEoO6lXRvNFE/view?usp=sharing)
 <!--**CarlosGMI/carlosgmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
