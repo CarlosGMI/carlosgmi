@@ -1,4 +1,4 @@
-<h2>Hi! I'm Carlos Maldonado <img src="https://media.giphy.com/media/pVMYwlWcHwUNOqk9qb/giphy.gif" width="50"> </h2>
+<h2><img src="https://media.giphy.com/media/jUJhGiy5Hxn3Eo7us4/giphy.gif" width="50"> Hi! I'm Carlos Maldonado</h2>
 
 [![Linkedin: carlosgmi](https://img.shields.io/badge/-carlosgmi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosgmi/?locale=en_US)](https://www.linkedin.com/in/carlosgmi/?locale=en_US)
 
