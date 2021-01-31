@@ -1,13 +1,13 @@
-<h2>Test</h2>
-### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> You can find me on:
-<p><a href="https://www.linkedin.com/in/carlosgmi/?locale=en_US"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a></p>
+<h2>Hi! I'm Carlos Maldonado <img src="https://media.giphy.com/media/pVMYwlWcHwUNOqk9qb/giphy.gif" width="50"> </h2>
 
-</br>
+[![Linkedin: carlosgmi](https://img.shields.io/badge/-carlosgmi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosgmi/?locale=en_US)](https://www.linkedin.com/in/carlosgmi/?locale=en_US)
 
 <p>I'm <b>Carlos Maldonado</b>, a passionate Full Stack Developer.</p>
 
 - 📍 Caracas, Venezuela
 - 📝 Here is my [Resume](https://drive.google.com/file/d/1XpAEPJp2abbtp9FuRjV-VEoO6lXRvNFE/view?usp=sharing)
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--**CarlosGMI/carlosgmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
