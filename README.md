@@ -17,16 +17,14 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="25" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="25" /></code>
 <br><br>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="25" /></code>
-<!-- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="25" /></code> -->
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25" /></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="25" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="25" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="25" /></code>
-<!--<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25" /></code>-->
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="25" /></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="25" /></code>
 
 #### <em> If you like what I do, please write me to my <a href="mailto:maldonadocgi@gmail.com">email</a> and let's code together! </em>
 <p align="center"><img src="https://media.giphy.com/media/PhHppXqAqc6uOd6y4X/giphy.gif" width="100" /></p>
